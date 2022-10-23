@@ -6,6 +6,8 @@
 
 # Values in column names 
 
+# Some annotations!
+
 raw <- read.csv("data/pew.csv", check.names = F)
 
 head(raw)
